@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy – Ayurveda Home Remedies App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2E7D32;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        a {
+            color: #1B5E20;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy – Ayurveda Home Remedies App</h1>
+        <p><strong>Effective Date:</strong> [Insert Date]</p>
+
+        <h2>1. Introduction</h2>
+        <p>Welcome to Ayurveda Home Remedies App (“we”, “our”, “the App”). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information. By using the App, you agree to the practices described in this policy.</p>
+
+        <h2>2. Information We Collect</h2>
+        <p><strong>Personal Information:</strong> We do <strong>not</strong> collect personally identifiable information such as your name, email, or phone number.</p>
+        <p><strong>Non-Personal Information:</strong> We may collect anonymous data such as device type, operating system, app usage statistics, and interactions with the app.</p>
+
+        <h2>3. How We Use Information</h2>
+        <p>We use the collected information solely to:</p>
+        <ul>
+            <li>Improve app functionality and user experience</li>
+            <li>Analyze app usage trends</li>
+            <li>Provide relevant content</li>
+        </ul>
+
+        <h2>4. Advertising & Third-Party Services</h2>
+        <p>Our app <strong>does not use personalized ads</strong>.</p>
+        <p>We may use third-party SDKs for analytics or app performance, which do <strong>not</strong> collect personal information.</p>
+
+        <h2>5. Data Sharing</h2>
+        <p>We do <strong>not</strong> sell, trade, or otherwise share your personal information with third parties.</p>
+
+        <h2>6. Security</h2>
+        <p>We implement reasonable measures to protect your data from unauthorized access or disclosure.</p>
+
+        <h2>7. Children’s Privacy</h2>
+        <p>This app is <strong>not</strong> directed to children under 13, and we do not knowingly collect personal information from children.</p>
+
+        <h2>8. Changes to this Privacy Policy</h2>
+        <p>We may update this policy from time to time. The updated version will be posted on this page.</p>
+
+        <h2>9. Contact Us</h2>
+        <p>For questions or concerns regarding this Privacy Policy, contact us at:</p>
+        <p>Email: <a href="mailto:vasuveda@gmail.com">vasuveda@gmail.com</a></p>
+        <p>Phone: 9740911695</p>
+    </div>
+</body>
+</html>
